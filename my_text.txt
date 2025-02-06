@@ -1,0 +1,10 @@
+git add .
+git add --renormalize .
+git commit -m ""
+git push origin main
+
+git config user.email
+git config user.name
+
+git config user.email "chaudharyavi4336@gmail.com"
+git config user.name "sumit43336"

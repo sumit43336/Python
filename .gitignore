@@ -1,0 +1,52 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+venv3.12
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables and secrets
+.env
+*.key
+*.pem
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Testing
+.tox/
+.nox/
+.coverage
+*.cover
+nosetests.xml
+pytest_cache/
+
+# Docker
+docker-compose.override.yml
+
+# Machine learning artifacts
+*.h5
+*.ckpt
+*.onnx
+model/

@@ -21,4 +21,6 @@ A discriminator network aims to identify which received output is artificial.
 
 ### Inshort the Gan has a Generator and a Discriminator. Generator generate images and Discriminator tells if its close to real or fake.
 
+# DCGAN
+## BCE Binary Cross Entropy Loss.![alt text](image.png)
 

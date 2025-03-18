@@ -51,3 +51,7 @@ docker-compose.override.yml
 *.ckpt
 *.onnx
 model/
+# Ignore Unet images folder
+images
+annotations
+oxford-iiit-pet

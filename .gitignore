@@ -55,3 +55,11 @@ model/
 images
 annotations
 oxford-iiit-pet
+venv310
+main.ipynb
+archive.zip
+checkpoint_final.pth
+discriminator_final.pth
+generator_final.pth
+generator.py
+archive
